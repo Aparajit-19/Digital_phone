@@ -17,7 +17,11 @@
 <li align="left">Object-Oriented Programming</li>
 </ul>
 
+<h2 align="left">Visual representation:</h2>
+<ul>
 <img width="490" alt="Screenshot 2023-10-24 233802" src="https://github.com/Aparajit-19/Digital_phone/assets/74190792/92e60b38-15f2-45e4-bfbb-d282725901ae">
+</ul>
+
 
 
 
