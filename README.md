@@ -1,4 +1,4 @@
-# Digital_phone
+# Digital_phone (practice project)
 
 <hr/>
 
